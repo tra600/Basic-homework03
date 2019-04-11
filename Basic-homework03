@@ -8,13 +8,13 @@ int main(void)
 
    float height,m,weight,BMI; 
 
-    printf("======該使用者的BMI資訊======\n"); 
+    printf("======受檢者的BMI資訊======\n"); 
 
-    printf("您的身高為：");
+    printf("你的身高為：");
 
     scanf("%f",&height);
 
-    printf("您的體重為：");
+    printf("你的體重為：");
 
     scanf("%f",&weight);
 
